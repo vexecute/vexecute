@@ -1,3 +1,3 @@
-### Hi there, I'm vexecute👋
+### Hi there, I'm vishnu👋
 
 - 💻 I’m currently pursuing my bachelor's degree in cybersecurity.
