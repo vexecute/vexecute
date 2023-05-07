@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain and Cloud Computing projects**
 
-- 🤝 I’m looking for help with **web3.js**
+- 🤝 I’m looking for help with **Reactjs**
 
 - 📫 How to reach me **vishnuk2k3@gmail.com**
 
