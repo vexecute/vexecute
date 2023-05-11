@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm vishnu</h1>
 <h3 align="center">A cloud enthusiast and XR aficionado with a strong interest in cloud security and architecture.</h3>
 
-- 🔭 I’m currently working on **Cloud computing, Machine Learning and Networking**
+- 🔭 I’m currently working on **Cloud computing, Networking and Quantum Cryptography**
 
-- 🌱 I’m currently learning **API Development and Testing, Nodejs**
+- 🌱 I’m currently learning **Splunk, API Development and Testing**
 
-- 👯 I’m looking to collaborate on **Blockchain and Cloud Computing projects**
+- 👯 I’m looking to collaborate on **ML, Blockchain and CloudSec projects**
 
 - 🤝 I’m looking for help with **Reactjs**
 
