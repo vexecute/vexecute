@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm vishnu</h1>
 <h3 align="center">A cloud enthusiast and XR aficionado with a strong interest in cloud security and architecture.</h3>
 
-- 🔭 I’m currently working on **ZTA, Mini-SDP implementation and a Research paper**
+- 🔭 I’m currently working on **Mini-SDP implementation, ZTA and a Research paper**
 
 - 🌱 I’m currently learning **Reactjs, Typescript**
 
