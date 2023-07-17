@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Typescript**
 
-- 👯 I’m looking to collaborate on **ML, Blockchain and CloudSec projects**
+- 👯 I’m looking to collaborate on **Blockchain and CloudSec projects**
 
 - 🤝 I’m looking for help with **Reactjs**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imvishnuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imvishnuk" height="30" width="40" /></a>
-<a href="https://twitter.com/not0xolotl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not0xolotl" height="30" width="40" /></a>
+<a href="(https://twitter.com/0xcubone)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not0xolotl" height="30" width="40" /></a>
 <a href="https://instagram.com/btwimvishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwimvishnu" height="30" width="40" /></a>
 </p>
 
